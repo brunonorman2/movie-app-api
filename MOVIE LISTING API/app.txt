@@ -1,0 +1,9 @@
+features:
+
+Create movies
+View movies
+Update movies
+Delete movies
+Edit movies
+
+Movie - id, title, description, producer
